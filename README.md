@@ -1,3 +1,3 @@
 # scenyder
-Генератор логлайнов для сценариев\n
-A plot loglines generator
+Генератор логлайнов для сценариев
+(A plot loglines generator)
